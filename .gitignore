@@ -1,0 +1,10 @@
+# Plots
+*.png
+# Virtual environment files
+rl_learning_env/
+# Textbook chapters
+*.pdf
+# Python execution files
+*.pyc
+# Chapter summary
+chapter2_guide.md
